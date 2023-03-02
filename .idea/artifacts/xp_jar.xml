@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact name="xp:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/xp_jar</output-path>
+    <root id="root">
+      <element id="archive" name="xp.jar">
+        <element id="module-output" name="xp" />
+      </element>
+    </root>
+  </artifact>
+</component>
